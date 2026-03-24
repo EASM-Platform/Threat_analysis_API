@@ -204,7 +204,7 @@ def build_html_report(data: dict, output_dir: str = "output") -> str:
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>위협 분석 리포트 - {target_ip}</title>
+    <title>해당 IP 포트 스캔 및 취약점 분석 리포트 - {target_ip}</title>
     <style>
         body {{
             font-family: Arial, sans-serif;

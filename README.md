@@ -1,4 +1,4 @@
-# Threat_analysis_API
+# Vulnerability_Analysis_API
 입력된 타깃에 대해 포트와 서비스 지문을 수집하고, 외부 취약점 인텔리전스를 결합해 위험도를 산정한 뒤, 이를 JSON/HTML 보고서로 출력하는 모듈형 EASM/취약점 분석 파이프라인이다.</br>
 1. 스캔
 2. 식별
